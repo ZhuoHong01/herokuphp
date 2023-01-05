@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Lee Zhuo Hong",
+        "email": "21018193@myrpedu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
